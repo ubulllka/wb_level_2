@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1936843-7c9c-46a7-a3e0-d477e5fcebac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../dev01/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev01/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev01/ntp/ntp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev01/ntp/ntp_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev02/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev02/unpack/unpack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev02/unpack/unpack_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev03/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev03/mysort/mysort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev04/find/find.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev04/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev05/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev06/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev07/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev08/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev01/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev01/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev01/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev02/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev02/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev02/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev03/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev03/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev03/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev04/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev04/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev04/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev05/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev05/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev05/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev06/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev06/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev06/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev07/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev07/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev07/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev08/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev08/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev08/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev09/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../dev09/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dev09/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing01.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing02.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing02.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing04.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing04.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing05.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing05.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing06.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing06.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listing/listing07.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listing/listing07.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2eE27cjWlMZGRdK1kwTW0cj03Pb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/study_go/wb/wbL2/develop/dev11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-266795519c66-911b893a1778-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.13135.104" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
